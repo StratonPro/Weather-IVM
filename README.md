@@ -2,16 +2,23 @@
 [![Github Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/StratonPro)](https://github.com/sponsors/StratonPro)
 
 
-
-
 # Weather-IVM
 Weather IVM - Artificial intelligence (AI)
+
+## Description
+[OpenWeatherMap](https://openweathermap.org/) (OWM) is a service providing weather related data, visualizing it using an OpenLayers based map. This is an independant Leaflet based script providing easy access to OWM's features for Leaflet based maps.
+
+In short: An independant JavaScript library for including OWM's layers and OWM's current city data in Leaflet based maps without hassle.
+
+## License
+
+This code is licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/ "Creative Commons Zero - Public Domain").
+Some files in the example directory may have other licences (e.g. leaflet.js - see leaflet.license) - please have a look at the files if needed.
 
 # Demo
 https://ivm.straton.pro/
 
-# Weather IVM
-
+# About
 We are Straton plc.
 Weather Forecasting Agency
 Artificial intelligence (AI)
