@@ -1,7 +1,4 @@
 
-
-
-
 <IfModule mod_php8.c>
     php_value memory_limit 512M
 </IfModule>
@@ -129,4 +126,4 @@ ExpiresByType image/svg+xml "access plus 1 year"
 		Header append Vary User-Agent
 	</IfModule>
 </IfModule>
-# END WP-Optimize Gzip compression
+# END Gzip compression
