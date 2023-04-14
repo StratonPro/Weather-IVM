@@ -1,2 +1,2 @@
 # Weather IVM core
-[Straton IVM](https://www.wappalyzer.com/)
+[Straton IVM](https://straton.pro/)
