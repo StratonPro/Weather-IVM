@@ -1,3 +1,9 @@
+[![Validate](https://github.com/StratonPro/Weather-IVM/actions/workflows/validate.yml/badge.svg)](https://github.com/StratonPro/Weather-IVM/actions/workflows/validate.yml)
+[![Github Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/StratonPro)](https://github.com/sponsors/StratonPro)
+
+
+
+
 # Weather-IVM
 Weather IVM - Artificial intelligence (AI)
 
