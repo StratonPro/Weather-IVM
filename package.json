@@ -1,5 +1,6 @@
 {
     "name": "Weather-IVM",
+    "version": "1.0.0",
     "author": "Dimitrios N. Giannopulos",
     "description": "Weather Forecasting",
     "license": "MIT",
