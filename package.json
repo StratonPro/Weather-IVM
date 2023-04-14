@@ -1,15 +1,21 @@
 {
-  "name": "Weather IVM",
-  "version": "1.0",
-  "description": "Weather Forecasting",
-  "main": "ivm/",
+    "name": "Weather-IVM",
+    "author": "Dimitrios N. Giannopulos",
+    "description": "Weather Forecasting",
+    "license": "MIT",
+    "homepage": "https://straton.pro/",
+    "main": "ivm/",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "straton": "echo \"Error: no straton specified\" && exit 1"
   },
-  "repository": {
+    "repository": {
     "type": "git",
     "url": "git+https://github.com/StratonPro/Weather-IVM.git"
   },
+    "files": [
+    "ivm",
+    "CHANGELOG.md"
+  ],
     "keywords": [
     "leaflet",
     "ivm",
@@ -19,10 +25,7 @@
     "tile",
     "straton"
   ],
-  "author": "Dimitrios N. Giannopulos",
-  "license": "GNU",
-  "bugs": {
+    "bugs": {
     "url": "https://github.com/StratonPro/Weather-IVM/issues"
   },
-  "homepage": "https://github.com/StratonPro/Weather-IVM#readme"
 }
