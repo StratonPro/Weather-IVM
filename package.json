@@ -10,6 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/StratonPro/Weather-IVM.git"
   },
+    "keywords": [
+    "leaflet",
+    "weather",
+    "map",
+    "openweathermap",
+    "tile",
+    "layer"
+  ],
   "author": "Dimitrios N. Giannopulos",
   "license": "GNU",
   "bugs": {
