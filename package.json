@@ -1,0 +1,19 @@
+{
+  "name": "Weather IVM",
+  "version": "1.0",
+  "description": "Weather Forecasting",
+  "main": "ivm/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StratonPro/Weather-IVM.git"
+  },
+  "author": "Dimitrios N. Giannopulos",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/StratonPro/Weather-IVM/issues"
+  },
+  "homepage": "https://github.com/StratonPro/Weather-IVM#readme"
+}
