@@ -5,7 +5,7 @@
     "license": "MIT",
     "homepage": "https://straton.pro/",
     "main": "ivm/",
-  "scripts": {
+    "scripts": {
     "straton": "echo \"Error: no straton specified\" && exit 1"
   },
     "repository": {
