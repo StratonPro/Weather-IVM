@@ -12,11 +12,12 @@
   },
     "keywords": [
     "leaflet",
+    "ivm",
     "weather",
     "map",
     "openweathermap",
     "tile",
-    "layer"
+    "straton"
   ],
   "author": "Dimitrios N. Giannopulos",
   "license": "GNU",
