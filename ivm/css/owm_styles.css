@@ -1,0 +1,31 @@
+html,
+body {
+	width: 100%;
+	height: auto;
+	/*height: 100%;*/
+	margin: 0;
+	padding: 0;
+	background-color: transparent;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: "Space Grotesk", Arial, sans-serif !important;
+}
+
+#logo {
+  padding: 10px;
+  position: absolute;
+  z-index: 500;
+  top: -10px;
+  left: 50%;
+  transform: translate(-50%, 0%);
+  width: 128px;
+  max-width: 100%;
+  background-color: transparent;
+  text-align: center;
+}
