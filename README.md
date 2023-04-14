@@ -5,6 +5,16 @@
 # Weather-IVM
 Weather IVM - Artificial intelligence (AI)
 
+Hello and welcome to the Weather IVM discussion boards! I hope this can become a place of useful community interaction.
+
+Feel free to post your general questions and discussion in the [General](https://github.com/StratonPro/Weather-IVM/discussions?discussions_q=category%3AGeneral) channel.
+
+For help with installation, configuration and geneal usage of Weather IVM post your questions in the [Help & Support ](https://github.com/StratonPro/Weather-IVM/discussions?discussions_q=category%3A%22Help+%26+Support%22)channel.
+
+Lastly, if you would like to discuss any ideas or feature requests you may have head on over to the [Ideas & Features](https://github.com/StratonPro/Weather-IVM/discussions?discussions_q=category%3A%22Ideas+%26+Features%22) channel.
+
+Please remember to be polite and have a good time!
+
 ## Description
 [OpenWeatherMap](https://openweathermap.org/) (OWM) is a service providing weather related data, visualizing it using an OpenLayers based map. This is an independant Leaflet based script providing easy access to OWM's features for Leaflet based maps.
 
