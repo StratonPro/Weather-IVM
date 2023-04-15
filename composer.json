@@ -1,0 +1,43 @@
+{
+    "name": "StratonPro/Weather-IVM",
+    "description": "Straton Weather Forecasting",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dimitrios N. Giannopulos",
+            "email": "hello@straton.pro"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/StratonPro/Weather-IVM/issues"
+    },
+    "require": {
+        "php": "^7.4 || ^8.0 || ^8.1",
+        "leaflet": "~0.7.0"
+        "ext-dom": "*",
+        "ext-fileinfo": "*",
+        "ext-zip": "*"
+    },
+    "dependencies": {
+    "leaflet": "~0.7.0"
+  }
+    "suggest": {
+        "ext-apcu": "Required to use the APCu cache driver",
+        "ext-memcached": "Required to use the Memcached driver",
+        "ext-redis": "Required to use the Redis cache driver"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "ivm/"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "platform": {
+            "php": "7.4"
+        },
+        "platform-check": true,
+        "sort-packages": true,
+        "vendor-dir": "ivm/"
+    }
+}
