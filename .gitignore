@@ -1,1 +1,2 @@
-/ivm/
+ivm/**/*
+component.json
